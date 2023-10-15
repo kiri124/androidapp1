@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ActividadSuma</string>
+    <string name="n1">number1</string>
+    <string name="n2">number2</string>
+    <string name="r">result</string>
+    <string name="bs">plus</string>
+    <string name="be">exit</string>
+
+</resources>

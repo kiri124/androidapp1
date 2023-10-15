@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ActividadSuma</string>
+    <string name="n1">Numero 1: </string>
+    <string name="n2">Numero 2:</string>
+    <string name="r">Resultado</string>
+    <string name="bs">Sumar</string>
+    <string name="be">Salir</string>
+
+
+
+</resources>
